@@ -6,19 +6,39 @@
 
 ---
 
-## 1. Title Options
+## 1. Algorithmic Title Options (High-CTR Standalone)
 
-* **Option 1 (High Drama & High CTR — Recommended):**  
-  `Surviving the Cape of Storms | Vasco da Gama: The First Voyage (Ep. 3)`
+* **Option 1 (Curiosity Gap & Peril — Recommended):**  
+  `The Deadly Monster Wave That Almost Ended Vasco da Gama (1497)` *(Mobile fit: 61 chars)*
 
-* **Option 2 (Action & Narrative):**  
-  `Ambush, Tempests & The Edge of the World | Vasco da Gama (1497)`
+* **Option 2 (Action & Ambush Hook):**  
+  `Ambushed at the Edge of the World: Vasco da Gama Speared (1497)`
 
-* **Option 3 (Cinematic & Historical):**  
-  `Rounding the Cape of Good Hope: Conquering the Southern Ocean | Episode 3`
+* **Option 3 (High Drama Narrative):**  
+  `Surviving the 'Cape of Storms' | European Discovery of the Indian Ocean`
 
-* **Option 4 (Short & Punchy):**  
-  `The Cape of Storms (1497) — Vasco da Gama Ep. 3`
+* **Option 4 (Search & Discovery):**  
+  `How 4 Wooden Ships Survived the Terrifying Cape of Good Hope in 1497`
+
+---
+
+## 1B. Companion 9:16 Shorts Funnel (Discovery Igniter)
+
+* **Short 1: The Beach Ambush**  
+  * **Title:** The moment Portuguese explorers made first contact and got ambushed (1497)  
+  * **Visual Hook:** CH01-EP03-S04 (Surf spray, flying assegais, Vasco struck in thigh).  
+  * **Voiceover:** *"November 1497. Vasco da Gama steps onto a desolate beach in South Africa. Within minutes, wooden spears erupt from the coastal scrub. Vasco takes an assegai directly to the leg as his men scramble into the surf."*  
+  * **Related Video Link:** Set to this full episode in YouTube Studio.
+
+* **Short 2: Monster Waves at the Cape**  
+  * **Title:** Why sailors called South Africa the 'Cape of Storms' in 1497  
+  * **Visual Hook:** CH01-EP03-S05 (50-ft Southern Ocean wave cresting above *São Gabriel*).  
+  * **Related Video Link:** Set to this full episode in YouTube Studio.
+
+* **Short 3: The Midnight Sacrifice**  
+  * **Title:** Why Vasco da Gama set fire to his own supply ship at midnight  
+  * **Visual Hook:** CH01-EP03-S07 (Blazing caravel hull against dark cliffs of Mossel Bay).  
+  * **Related Video Link:** Set to this full episode in YouTube Studio.
 
 ---
 

@@ -6,19 +6,34 @@
 
 ---
 
-## 1. Title Options
+## 1. Algorithmic Title Options (High-CTR Standalone)
 
-* **Option 1 (High Drama & Intrigue — Recommended):**  
-  `Lost in the Atlantic for 96 Days | Vasco da Gama: The First Voyage (Ep. 2)`
+* **Option 1 (Curiosity Gap & Life-or-Death Stakes — Recommended):**  
+  `Why 15th-Century Sailors Feared the Open Atlantic (96 Days Lost)`  *(Mobile fit: 60 chars)*
 
-* **Option 2 (Action & Navigation):**  
-  `The Great Atlantic Arc: Navigating Into the Unknown (1497) | Vasco da Gama Ep. 2`
+* **Option 2 (Shock & Discovery Hook):**  
+  `The 96-Day Ocean Voyage That Shocked the World (1497) | Vasco da Gama`
 
-* **Option 3 (Cinematic & Historical):**  
-  `Into the Abyss: The Longest Ocean Voyage in European History | Episode 2`
+* **Option 3 (High Drama Narrative):**  
+  `Lost in the Atlantic for 3 Months with No Land in Sight | Historical Animation`
 
-* **Option 4 (Short & Punchy):**  
-  `96 Days at Sea (1497) — Vasco da Gama Ep. 2`
+* **Option 4 (Search & Broad Discovery):**  
+  `How Vasco da Gama Survived the Longest Sea Voyage in European History`
+
+---
+
+## 1B. Companion 9:16 Shorts Funnel (Discovery Igniter)
+
+* **Short 1: Mid-Ocean Catastrophe**  
+  * **Title:** The terrifying sound of a ship mast snapping 1,000 miles from land (1497)  
+  * **Visual Hook:** CH01-EP02-S05 (Night gale, lightning illumination, split oak spar).  
+  * **Voiceover:** *"18 August 1497. In the middle of the South Atlantic, a deafening crack echoes through the storm. The main yard of the flagship splits in two. If they can't repair it in 40-foot seas, the entire expedition dies here."*  
+  * **Related Video Link:** Set to this full episode in YouTube Studio.
+
+* **Short 2: The 96-Day Void**  
+  * **Title:** How 170 men sailed into the abyss for 3 months with no map  
+  * **Visual Hook:** CH01-EP02-S06 (Whales swimming alongside wooden hulls in deep swell).  
+  * **Related Video Link:** Set to this full episode in YouTube Studio.
 
 ---
 

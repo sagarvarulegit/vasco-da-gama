@@ -18,4 +18,34 @@ Use zero-padded IDs for sorting and continuity: `CH01-EP03`, `CH01-EP04`, etc.
 - Prompt pack: `CH01-EP02-image-to-video.md`
 - Review: `CH01-EP02-review.md`
 
-Existing locked paths remain unchanged for compatibility. New files should use this convention; renames require a documented version change.
+Existing locked filenames remain unchanged for compatibility within their episode folders.
+
+## Chapter & Episode Directory Architecture
+
+All assets belonging to an episode are unified in its dedicated chapter/episode directory:
+
+```
+chapters/
+└── chapter-01-first-voyage/
+    ├── episode-01-lisbon/
+    │   ├── README.md                          # Episode overview & historical scope
+    │   ├── scenes/                            # Scene records (CH01-S01 to S08)
+    │   ├── prompts/                           # Image and image-to-video prompt packs
+    │   ├── storyboards/                       # Storyboard & continuity sheets
+    │   ├── images/                            # Canonical stills, variants & thumbnail
+    │   ├── videos/                            # Master episode video & scene motion clips
+    │   └── production/                        # Blueprint, YouTube package, locks & reviews
+    │       ├── locks/                         # Immutable lock manifests
+    │       └── reviews/                       # Per-scene review files
+    ├── episode-02-atlantic/
+    ├── episode-03-cape/
+    ...
+    └── episode-11-lisbon-return/
+```
+
+Series-wide assets remain at the root level:
+- `reference/`: Global characters, ships, geography, timeline, and visual bible
+- `production/`: Master film compilation, shorts packages, approval log, and `tools/`
+- `images/maps/`: Master portolan chart
+- `videos/maps/`: Master voyage overview route map
+

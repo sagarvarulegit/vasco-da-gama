@@ -16,8 +16,8 @@ All scene locations must be checked against the master timeline. A visual transi
 ## Cartographic Assets & Animated Route Maps
 
 - Master Portolan Chart still: [`images/maps/portolan-chart-master.png`](../images/maps/portolan-chart-master.png)
-- Episode 01 Transition (Lisbon to Cape Verde): [`videos/maps/route-map-ep01-lisbon-to-cape-verde.mp4`](../videos/maps/route-map-ep01-lisbon-to-cape-verde.mp4)
-- Episode 02 Transition (South Atlantic Volta do Mar): [`videos/maps/route-map-ep02-atlantic-volta-do-mar.mp4`](../videos/maps/route-map-ep02-atlantic-volta-do-mar.mp4)
+- Episode 01 Transition (Lisbon to Cape Verde): [`videos/maps/route-map-ep01-lisbon-to-cape-verde.mp4`](../chapters/chapter-01-first-voyage/episode-01-lisbon/videos/route-map-ep01-lisbon-to-cape-verde.mp4)
+- Episode 02 Transition (South Atlantic Volta do Mar): [`videos/maps/route-map-ep02-atlantic-volta-do-mar.mp4`](../chapters/chapter-01-first-voyage/episode-02-atlantic/videos/route-map-ep02-atlantic-volta-do-mar.mp4)
 - Full Outward Voyage Master Map: [`videos/maps/route-map-master-voyage-overview.mp4`](../videos/maps/route-map-master-voyage-overview.mp4)
 - Map Generation Tool: `production/tools/generate_route_maps.py`
 

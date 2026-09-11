@@ -14,8 +14,8 @@ import subprocess
 import sys
 
 PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent.parent
-IMAGES_DIR = PROJECT_ROOT / "images" / "episode-03"
-VIDEOS_DIR = PROJECT_ROOT / "videos" / "episode-03"
+IMAGES_DIR = PROJECT_ROOT / "chapters" / "chapter-01-first-voyage" / "episode-03-cape" / "images"
+VIDEOS_DIR = PROJECT_ROOT / "chapters" / "chapter-01-first-voyage" / "episode-03-cape" / "videos"
 
 SCENES = [
     {

@@ -4,9 +4,10 @@ import hashlib
 import pathlib
 
 PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent.parent
-IMAGES_DIR = PROJECT_ROOT / "images" / "episode-03"
-REVIEWS_DIR = PROJECT_ROOT / "production" / "reviews"
-LOCKS_DIR = PROJECT_ROOT / "production" / "locks"
+EP03_DIR = PROJECT_ROOT / "chapters" / "chapter-01-first-voyage" / "episode-03-cape"
+IMAGES_DIR = EP03_DIR / "images"
+REVIEWS_DIR = EP03_DIR / "production" / "reviews"
+LOCKS_DIR = EP03_DIR / "production" / "locks"
 
 SCENES = [
     {

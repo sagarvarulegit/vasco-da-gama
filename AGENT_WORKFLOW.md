@@ -76,17 +76,32 @@ Do not assume a scene is approved because an image file exists.
 
 ## 3. Repository map
 
-| Directory | Purpose |
-|---|---|
-| `reference/` | Canonical historical, geographic, style, character, and ship references |
-| `chapters/` | Chapter and episode scope, outlines, and status |
-| `scenes/` | One source-grounded Markdown record per scene |
-| `prompts/` | Image prompts, image-to-video prompts, narration, music, and sound direction |
-| `images/` | Generated stills, approved thumbnails, and non-canonical tests |
-| `storyboards/` | Panel order, continuity sheets, and visual sequence maps |
-| `production/` | Reviews, approval logs, locks, blueprints, tools, and export notes |
-| `videos/` | Final or versioned assembled episode videos |
-| `research/` | Additional source extracts and uncertainty notes |
+The project is structured Chapter- and Episode-wise:
+
+```
+/
+├── reference/                                 # Global historical, character, ship, and style bibles
+├── chapters/
+│   └── chapter-01-first-voyage/               # First Voyage (1497–1499)
+│       ├── episode-01-lisbon/                 # Episode 1 unified assets
+│       │   ├── README.md                      # Episode scope and historical baseline
+│       │   ├── scenes/                        # Markdown records (CH01-S01.md to CH01-S08.md)
+│       │   ├── prompts/                       # Image & image-to-video prompt packages
+│       │   ├── storyboards/                   # Sequence assembly and continuity sheets
+│       │   ├── images/                        # Approved raster stills and thumbnails
+│       │   ├── videos/                        # Master assembled episode video & scene motion clips
+│       │   └── production/                    # Episode blueprints, locks, and reviews
+│       │       ├── locks/                     # Locked canonical manifests
+│       │       └── reviews/                   # Per-scene quality and fidelity reviews
+│       ├── episode-02-atlantic/
+│       ├── episode-03-cape/
+│       ...
+│       └── episode-11-lisbon-return/
+├── production/                                # Series compilation blueprint, shorts packs, and tools/
+│   └── tools/                                 # Python automation, video assembly, and image generation
+├── images/maps/                               # Series-wide portolan navigation charts
+└── videos/maps/                               # Master voyage overview route maps
+```
 
 ## 4. Naming and versioning
 
@@ -94,19 +109,16 @@ Use zero-padded IDs:
 
 - Episode: `CH01-EP02`
 - Scene: `CH01-EP02-S03`
-- Still: `images/episode-02/CH01-EP02-S03-v1.png`
-- Review: `production/reviews/CH01-EP02-S03-review.md`
-- Motion clip: `videos/episode-02/CH01-EP02-S03-motion-v1.mp4`
-- Episode video: `videos/episode-02/Vasco-Da-Gama-CH01-EP02-v1.mp4`
-- Thumbnail: `images/episode-02/CH01-EP02-thumbnail-v1.png`
-- Lock manifest: `production/locks/CH01-EP02-lock-v1.md`
-
-Existing names are compatibility-sensitive. Do not rename old Chapter 1
-assets merely to make them match the newer convention.
+- Still: `chapters/chapter-01-first-voyage/episode-02-atlantic/images/CH01-EP02-S03-v1.png`
+- Review: `chapters/chapter-01-first-voyage/episode-02-atlantic/production/reviews/CH01-EP02-S03-review.md`
+- Motion clip: `chapters/chapter-01-first-voyage/episode-02-atlantic/videos/CH01-EP02-S03-motion-v1.mp4`
+- Episode video: `chapters/chapter-01-first-voyage/episode-02-atlantic/videos/Vasco-Da-Gama-CH01-EP02-v1.mp4`
+- Thumbnail: `chapters/chapter-01-first-voyage/episode-02-atlantic/images/CH01-EP02-thumbnail-v1.png`
+- Lock manifest: `chapters/chapter-01-first-voyage/episode-02-atlantic/production/locks/CH01-EP02-lock-v1.md`
 
 ## 5. How to author a scene
 
-Create `scenes/CH01-EP##-S##.md` with these mandatory sections:
+Create `chapters/chapter-01-first-voyage/episode-##-<name>/scenes/CH01-EP##-S##.md` with these mandatory sections:
 
 ```markdown
 # CH01-EP##-S##

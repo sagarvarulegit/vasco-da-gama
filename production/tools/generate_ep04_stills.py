@@ -6,7 +6,7 @@ import subprocess
 import sys
 
 PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent.parent
-IMAGES_EP04_DIR = PROJECT_ROOT / "images" / "episode-04"
+IMAGES_EP04_DIR = PROJECT_ROOT / "chapters" / "chapter-01-first-voyage" / "episode-04-east-africa" / "images"
 PROMPT_GEN_SCRIPT = PROJECT_ROOT / "production" / "tools" / "gemini_image_generate.py"
 
 EP04_PROMPTS = [

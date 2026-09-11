@@ -5,7 +5,7 @@ import subprocess
 import sys
 
 PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent.parent
-IMAGES_EP03_DIR = PROJECT_ROOT / "images" / "episode-03"
+IMAGES_EP03_DIR = PROJECT_ROOT / "chapters" / "chapter-01-first-voyage" / "episode-03-cape" / "images"
 PROMPT_GEN_SCRIPT = PROJECT_ROOT / "production" / "tools" / "gemini_image_generate.py"
 
 THUMBNAIL_PROMPT = """MASTER_STYLE_02. 16:9 widescreen epic YouTube thumbnail composition. 22 November 1497, rounding the Cape of Good Hope. Majestic, high-drama maritime breakthrough: the massive flagship São Gabriel (SHIP_SG01) surges proudly through deep sapphire waves past the colossal, towering golden sandstone cliffs of the Cape of Good Hope. Intense golden god-rays pierce through dark parting storm clouds, illuminating the blazing crimson Order of Christ crosses on the huge billowing square sails and sparkling white ocean foam. On the poop deck, VASCO_01 stands like an iron commander with wind-blown dark hair, his hand raised toward the uncharted eastern horizon, surrounded by brass trumpeters sounding fanfares. Epic chiaroscuro contrast, grand European historical masterpiece, extreme visual clarity, no text, no modern elements."""

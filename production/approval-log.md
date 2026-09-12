@@ -100,3 +100,19 @@ All eight scene voiceovers were strictly audited and capped to **18–20 words**
 - **`CH01-EP06-S07`** (Sighting the Western Ghats): `images/CH01-EP06-S07-v1.png` — SHA-256: `c7d0ced3960ef02ab781233578500a1feb29237d477943544b56540204867be2`
 - **`CH01-EP06-S08`** (Dropping Anchor off Calicut): `images/CH01-EP06-S08-v1.png` — SHA-256: `c155760efab5b5927f4b201c38638ddd37a2af601ab360d40a1928542e062981`
 - **`CH01-EP06-Thumb`** (YouTube 3-Element Thumbnail): `images/CH01-EP06-thumbnail-v1.png` — SHA-256: `bc7c57b6caaa7d813f27bf7bfe5c8a87bad19ce0315ca6158f75088e0215e663`
++
+## 11 September 2026 — CH01-EP07 v1 Stills Generated (pending owner approval)
++
+Eight v1 stills and the thumbnail for Chapter 1 Episode 7 (*Calicut: The Zamorin's Court*) were generated via `production/tools/generate_ep07_stills.py` into `chapters/chapter-01-first-voyage/episode-07-calicut/images/`. Eight motion clips were rendered into `videos/` (git-ignored generated assets). No owner approval recorded yet — frames are reviewable candidates, not canonical.
++
+- **`CH01-EP07-S01`** (First Contact: Christians and Spices): `images/CH01-EP07-S01-v1.png` — SHA-256: `fe9a28edd486994f97032887952370ca245d73c22e048fb33937ed3168e46cf3`
+- **`CH01-EP07-S02`** (The Prophet of Riches: Monçaide): `images/CH01-EP07-S02-v1.png` — SHA-256: `c7e63b981568a103d1fa7ac34de779ea0b28ebfd671ce2d724652282f9dd45af`
+- **`CH01-EP07-S03`** (The Procession of the Nairs): `images/CH01-EP07-S03-v1.png` — SHA-256: `29860651321db084eced63939cf01710e5e6d1f37c210fc5cad3ccf8f3604dce`
+- **`CH01-EP07-S04`** (The Temple of the "White Saints"): `images/CH01-EP07-S04-v1.png` — SHA-256: `a50cfff0609173eabda30828937ff0ab6b48f776a160b57fc8e554fff792af18`
+- **`CH01-EP07-S05`** (In the Presence of the Zamorin): `images/CH01-EP07-S05-v1.png` — SHA-256: `c9a82669cdb77f9c1915234b16eb93ab263322c1d36048bff908811127dd501e`
+- **`CH01-EP07-S06`** (The Humiliation of the Gifts): `images/CH01-EP07-S06-v1.png` — SHA-256: `5516b56cfad00c3cbcc1dd23922a817c7e6c19fe6010c5e6bd26fed7cd621924`
+- **`CH01-EP07-S07`** (The Cold Interrogation): `images/CH01-EP07-S07-v1.png` — SHA-256: `6a1fe97de5e36a83742fe59f3542fddf60b5bd6aab9b954d7fcea09bd3b88512`
+- **`CH01-EP07-S08`** (Trapped at Pandarani): `images/CH01-EP07-S08-v1.png` — SHA-256: `87d58ea30f82686c3c1aef1313c9832c5a726fe42b8e03d1d426b69dff03f338`
+- **`CH01-EP07-Thumb`** (YouTube 3-Element Thumbnail): `images/CH01-EP07-thumbnail-v1.png` — SHA-256: `bf6c716a39e87c44a4dd67557e4d8956f215d18a95ab46f793feca422ab1e49a`
++
+Lock-path correction recorded in `CH01-EP07-lock-v1.md` revision record (old `images/episode-07/` paths did not exist). `videos.zip` bundle and `*.mp4` clips stay git-ignored via `.gitignore`.

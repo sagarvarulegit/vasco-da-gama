@@ -1,3 +1,5 @@
 
 # Generated video assets
 *.mp4
+# Generated video bundles (e.g. episode videos.zip exports)
+*.zip

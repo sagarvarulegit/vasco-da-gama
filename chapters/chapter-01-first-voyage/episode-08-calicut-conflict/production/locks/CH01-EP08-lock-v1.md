@@ -1,3 +1,5 @@
+> **SUPERSEDED (Sept 2026).** This manifest is VOID: it references eight `images/episode-08/*.png` files that were never generated, cites no review files, records no SHA-256 hashes, and has no approval-log entry. The v1 scene records it rests on failed source verification (see audit note in `scenes/CH01-EP08-scenes.md` v2). No new lock until: corrected prompts → generated stills → per-scene historical + continuity reviews → approval-log entry → hash manifest (v2).
+
 # Chapter 1 Episode 8 — Continuity & Scene Lock (v1)
 ## Conflict in Calicut & The Great Escape (1498)
 

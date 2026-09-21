@@ -1,24 +1,22 @@
 # CH01-EP08 — Conflict in Calicut & The Great Escape
 
-**Status:** Complete Scene Architecture, Video Blueprint, Storyboard, Image & Video Prompts, and YouTube Publishing Suite Locked  
+**Status:** Scene Records v2 (source-verified, Sept 2026) — prompts, blueprint, storyboard and YouTube package still v1/unverified; NO lock in force (CH01-EP08-lock-v1 SUPERSEDED, see production/locks/)
 **Series Structure:** Chapter 1 — First Voyage; Episode 8 — Conflict in Calicut  
-**Historical Period:** June – September 1498  
+**Historical Period:** late May – 5 October 1498
 **Primary Source:** *A Journal of the First Voyage of Vasco da Gama, 1497–1499* (ed. E. G. Ravenstein, Hakluyt Society, 1898, pp. 70–85)  
 
 ---
 
 ## 1. Scope & Historical Narrative
 
-Episode 8 depicts the dramatic breakdown of relations in Calicut, the hostage crisis, the naval battle in the roadstead, and the arrival at the Anjediva Islands:
-
-1. **Ransom and Return (2 June 1498):** Vasco da Gama pays the Catual with trade goods and safely rejoins the fleet offshore.
-2. **Trading in the Factory (June–August 1498):** Diogo Dias sets up a temporary warehouse ashore, trading European brass and linen for Indian spices (cinnamon, cloves, pepper).
-3. **The Arrest of the Factors (19 August 1498):** The Zamorin orders the Portuguese factor Diogo Dias and clerk Fernão Martins detained ashore, confiscating their goods.
-4. **Retaliation: Seizing Malabar Hostages (23 August 1498):** Vasco da Gama lures 16 high-ranking Malabar merchants aboard *São Gabriel* and holds them hostage.
-5. **The Hostage Exchange (27–28 August 1498):** Diogo Dias is returned with a letter written on palm leaf (*olla*) from the Zamorin to King Manuel I; Vasco retains several hostages to show in Portugal.
-6. **The Standoff & Naval Bombardment (29–30 August 1498):** A fleet of 70 Calicut war vessels (*paraws*) pursues the departing caravels; Portuguese heavy bombards unleash devastating broadsides before a sudden offshore squall carries the armada to safety.
-7. **Careening at the Anjediva Islands (20 September 1498):** The fleet shelters at the lush Anjediva Islands off Goa to scrape barnacles, replenish fresh water, and repair battered hulls.
-8. **The Encounter with Gaspar da Gama (24 September 1498):** A mysterious European-dressed merchant arrives on a small boat speaking fluent Venetian, claiming to be an admiral of the Sultan of Bijapur; suspected of espionage, he is captured and baptized as Gaspar da Gama.
+1. **Detained on the Road (29–30 May 1498):** Gama held a night and a day returning from his audience; released when goods arrive from the ships.
+2. **The Factory Ashore (24 June – 13 August 1498):** Diogo Dias's merchandise post; cloth and copper sell poorly, samples of pepper, cinnamon, cloves and stones bought for the king.
+3. **The Factor Detained (13 August 1498):** The Zamorin demands 600 xerafins; Dias confined to the merchandise house under watch, boats barred from the fleet; a night messenger reaches the ships.
+4. **Eighteen Hostages (19 August 1498):** Twenty-five visitors board São Gabriel; Gama seizes eighteen, landing the rest with an exchange offer.
+5. **The Exchange (23–28 August 1498):** Parley, threats, the king's reversal blaming his factor; Dias returns 27 August with the palm-leaf (*olla*) letter; six prisoners freed, six kept.
+6. **Seventy Boats (29–30 August 1498):** Council resolves to sail; becalmed off Calicut, ~70 red-clad boats close to bombard range, are fired on, then a thunderstorm carries the fleet out.
+7. **Anjediva (10 September – 5 October 1498):** Compia letter, Santa Maria pillar, coast watering, prize burned, twelve-day careening of São Gabriel and Bérrio on a populated island.
+8. **The Man Who Spoke Venetian (late September 1498):** A ~40-year-old Venetian-speaker arrives, is unmasked by Paulo da Gama's inquiry, questioned on the beached hull, and confesses at sea; origins disputed, baptism later in Portugal.
 
 ---
 
@@ -26,6 +24,6 @@ Episode 8 depicts the dramatic breakdown of relations in Calicut, the hostage cr
 
 * **Armada (3 Vessels):** `SHIP_SG01` (*São Gabriel*), `SHIP_SR01` (*São Rafael*), `SHIP_B01` (*Bérrio*).
 * **Character Continuity:**
-  * `VASCO_01`: Hardened, highly vigilant, wearing full steel armor during naval standoffs.
-  * `DIAS_01` (Diogo Dias): Vasco's trusted factor, detained ashore and surviving the palace intrigue.
-  * `GASPAR_01` (Gaspar da Gama): Polish Jewish merchant-admiral, fine linen garments, fluent in Italian and Spanish, sharp intellect.
+  * `VASCO_01`: Hardened and vigilant in worn practical maritime clothing; no plate armor (unmarked in the account).
+  * `DIOGO_01` (Diogo Dias): factor, detained ashore 13–27 August; NO kinship to Vasco (the captain's brother is Paulo).
+  * `GASPAR_01`: ~40 per the account, linen with touca and belted sword; Polish/Poznań origin LOW-confidence (Barros/Goes only); baptism in Portugal, not Anjediva.

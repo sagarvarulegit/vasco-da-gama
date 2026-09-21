@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp_str": "00:00",
+    "seconds": 0.0,
+    "title": "Documentary Prologue: The Mission to India"
+  },
+  {
+    "timestamp_str": "00:05",
+    "seconds": 5.0,
+    "title": "ACT I: Lisbon \u2014 The Departure"
+  },
+  {
+    "timestamp_str": "01:25",
+    "seconds": 85.8,
+    "title": "Route Map: Portolan Chart: Lisbon to Cape Verde & Atlantic"
+  },
+  {
+    "timestamp_str": "01:29",
+    "seconds": 89.9,
+    "title": "ACT II: The South Atlantic \u2014 Into the Unknown"
+  },
+  {
+    "timestamp_str": "02:50",
+    "seconds": 170.7,
+    "title": "Route Map: Portolan Chart: Atlantic Loop to Southern Africa"
+  },
+  {
+    "timestamp_str": "02:54",
+    "seconds": 174.8,
+    "title": "ACT III: The Devil's Sea \u2014 Rounding the Cape"
+  },
+  {
+    "timestamp_str": "04:15",
+    "seconds": 255.6,
+    "title": "Route Map: Portolan Chart: Rounding Cape of Good Hope to East Africa"
+  },
+  {
+    "timestamp_str": "04:19",
+    "seconds": 259.7,
+    "title": "ACT IV: East Africa \u2014 The Swahili Coast"
+  },
+  {
+    "timestamp_str": "05:40",
+    "seconds": 340.5,
+    "title": "Route Map: Portolan Chart: Mozambique to Mombasa & Malindi"
+  },
+  {
+    "timestamp_str": "05:44",
+    "seconds": 344.6,
+    "title": "ACT V: Malindi \u2014 Pilot of the Monsoon"
+  },
+  {
+    "timestamp_str": "07:05",
+    "seconds": 425.4,
+    "title": "Route Map: Portolan Chart: Setting Sail into the Open Arabian Sea"
+  },
+  {
+    "timestamp_str": "07:09",
+    "seconds": 429.5,
+    "title": "ACT VI: The Arabian Sea \u2014 Monsoon Crossing"
+  },
+  {
+    "timestamp_str": "08:30",
+    "seconds": 510.3,
+    "title": "Route Map: Portolan Chart: Landfall at Kappad Beach & Calicut"
+  },
+  {
+    "timestamp_str": "08:34",
+    "seconds": 514.4,
+    "title": "ACT VII: Calicut \u2014 The Zamorin's Court"
+  },
+  {
+    "timestamp_str": "09:38",
+    "seconds": 578.4,
+    "title": "Route Map: Portolan Chart: Escaping Calicut to Anjediva Island"
+  },
+  {
+    "timestamp_str": "09:42",
+    "seconds": 582.5,
+    "title": "ACT VIII: The Break with Calicut \u2014 Ambush & Escape"
+  },
+  {
+    "timestamp_str": "11:03",
+    "seconds": 663.3,
+    "title": "Outro: The Return Voyage Ahead & Credits"
+  }
+]

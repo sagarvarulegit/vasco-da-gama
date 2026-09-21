@@ -3,3 +3,12 @@
 *.mp4
 # Generated video bundles (e.g. episode videos.zip exports)
 *.zip
+
+# Local video production engine
+OpenMontage/
+
+# Cache directories
+production/exports/supercut_cache/
+__pycache__/
+*.pyc
+

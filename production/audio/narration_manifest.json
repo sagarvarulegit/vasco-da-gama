@@ -1,0 +1,514 @@
+[
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 1,
+    "scene_id": "ACT_I_S01",
+    "text": "In July 1497, four vessels gathered at Bel\u00e9m for a voyage into the ocean.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 2,
+    "scene_id": "ACT_I_S02",
+    "text": "The men walked in procession to the shore, carrying candles, praying before departure.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 3,
+    "scene_id": "ACT_I_S03",
+    "text": "At the water's edge, Vasco da Gama and his captains boarded the waiting boats.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 4,
+    "scene_id": "ACT_I_S04",
+    "text": "They loosed the sails, caught the river wind, and stood down the Tagus.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 5,
+    "scene_id": "ACT_I_S05",
+    "text": "Behind the flagships sailed a heavy store-ship, carrying provisions for three long years.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 6,
+    "scene_id": "ACT_I_S06",
+    "text": "Passing the stone tower of Bugio, the ships met the rolling swells of the open sea.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 7,
+    "scene_id": "ACT_I_S07",
+    "text": "Four hulls fell into line, keeping watch upon one another under full sail.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_I",
+    "scene_idx": 8,
+    "scene_id": "ACT_I_S08",
+    "text": "Night fell over the Atlantic as the fleet lantern was lit upon the flagship's stern.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 1,
+    "scene_id": "ACT_II_S01",
+    "text": "By late July, the volcanic peak of Tenerife loomed through the morning mist.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 2,
+    "scene_id": "ACT_II_S02",
+    "text": "At Santiago in Cape Verde, they took on water and meat before turning into the deep ocean.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 3,
+    "scene_id": "ACT_II_S03",
+    "text": "Entering the doldrums, the sails went slack under a blistering equatorial sun.",
+    "word_count": 12,
+    "est_duration_sec": 5.33
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 4,
+    "scene_id": "ACT_II_S04",
+    "text": "Da Gama turned southwest into the open sea, making the great arc to catch the southern winds.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 5,
+    "scene_id": "ACT_II_S05",
+    "text": "For ninety-six days they saw neither shore nor sail, surrounded only by phosphorescent waters.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 6,
+    "scene_id": "ACT_II_S06",
+    "text": "Swells battered the oak hulls, forcing the crew to mend cordage and pump water day and night.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 7,
+    "scene_id": "ACT_II_S07",
+    "text": "In late October, gannets and floating gulfweed signaled land was drawing near.",
+    "word_count": 12,
+    "est_duration_sec": 5.33
+  },
+  {
+    "act_id": "ACT_II",
+    "scene_idx": 8,
+    "scene_id": "ACT_II_S08",
+    "text": "On the seventh of November, the armada dropped anchor in the shelter of St. Helena Bay.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 1,
+    "scene_id": "ACT_III_S01",
+    "text": "A barter ashore turned violent; spears flew, and Da Gama was struck in the leg.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 2,
+    "scene_id": "ACT_III_S02",
+    "text": "Beating south into fierce head-winds, the ships strained against freezing Antarctic gales.",
+    "word_count": 12,
+    "est_duration_sec": 5.33
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 3,
+    "scene_id": "ACT_III_S03",
+    "text": "Through tearing sea-fog, the jagged black cliffs of the Cape of Storms appeared.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 4,
+    "scene_id": "ACT_III_S04",
+    "text": "On the twenty-second of November, with wind astern, the fleet rounded the southern tip of Africa.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 5,
+    "scene_id": "ACT_III_S05",
+    "text": "At Mossel Bay, they broke up and burned the damaged store-ship, dividing its cargo.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 6,
+    "scene_id": "ACT_III_S06",
+    "text": "The local pastoralists played reed flutes and traded an ox for red caps and brass bells.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 7,
+    "scene_id": "ACT_III_S07",
+    "text": "On a rocky height above the bay, they raised a stone cross and the royal arms of Portugal.",
+    "word_count": 18,
+    "est_duration_sec": 8.0
+  },
+  {
+    "act_id": "ACT_III",
+    "scene_idx": 8,
+    "scene_id": "ACT_III_S08",
+    "text": "Sailing onward, the ferocious Agulhas current pushed against the bows with immense power.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 1,
+    "scene_id": "ACT_IV_S01",
+    "text": "At Inhambane, copper-wearing chieftains welcomed the mariners with gifts of fowl and millet.",
+    "word_count": 13,
+    "est_duration_sec": 5.78
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 2,
+    "scene_id": "ACT_IV_S02",
+    "text": "Entering Quelimane, Da Gama named it the River of Good Omens after sighting Asian silk cloth.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 3,
+    "scene_id": "ACT_IV_S03",
+    "text": "A terrible sickness struck: mariners' gums swelled over their teeth and legs grew black with scurvy.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 4,
+    "scene_id": "ACT_IV_S04",
+    "text": "In March, the fleet anchored off Mozambique Island, entering the stone-built Swahili maritime world.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 5,
+    "scene_id": "ACT_IV_S05",
+    "text": "The Sultan of Mozambique came out in velvet robes, believing the newcomers to be Turkish merchants.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 6,
+    "scene_id": "ACT_IV_S06",
+    "text": "When the Sultan discovered they were Christians, hostility broke out and Da Gama fired his bombards.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 7,
+    "scene_id": "ACT_IV_S07",
+    "text": "Local pilots hired to guide the armada attempted to run the ships onto shallow coastal reefs.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_IV",
+    "scene_idx": 8,
+    "scene_id": "ACT_IV_S08",
+    "text": "The fleet slipped away under cover of darkness, sailing north into perilous uncharted waters.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 1,
+    "scene_id": "ACT_V_S01",
+    "text": "At Mombasa, night swimmers slipped through the harbor attempting to cut the flagship's anchor cables.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 2,
+    "scene_id": "ACT_V_S02",
+    "text": "Suspecting betrayal, Da Gama dropped boiling oil on two captured captives to extract the plot.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 3,
+    "scene_id": "ACT_V_S03",
+    "text": "Cutting their lines at dawn, the Portuguese fled Mombasa before the harbor boats could surround them.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 4,
+    "scene_id": "ACT_V_S04",
+    "text": "On Easter Sunday, they reached the whitewashed walls and coconut groves of friendly Malindi.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 5,
+    "scene_id": "ACT_V_S05",
+    "text": "The King of Malindi rowed out in a crimson damask barge, greeting the captain-major as an ally.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 6,
+    "scene_id": "ACT_V_S06",
+    "text": "Gujarati merchants came aboard the flagship, celebrating the arrival with bronze horns and revelry.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 7,
+    "scene_id": "ACT_V_S07",
+    "text": "Here, the King granted them a master pilot who knew every reef and wind of the Indian Ocean.",
+    "word_count": 18,
+    "est_duration_sec": 8.0
+  },
+  {
+    "act_id": "ACT_V",
+    "scene_idx": 8,
+    "scene_id": "ACT_V_S08",
+    "text": "On the twenty-fourth of April, the fleet cast off from Africa into the boundless Arabian Sea.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 1,
+    "scene_id": "ACT_VI_S01",
+    "text": "The southwest monsoon caught the square sails, driving the three caravels eastward at fierce speed.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 2,
+    "scene_id": "ACT_VI_S02",
+    "text": "Each evening on the quarterdeck, the pilot lifted his wooden kamal to measure the height of the North Star.",
+    "word_count": 19,
+    "est_duration_sec": 8.44
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 3,
+    "scene_id": "ACT_VI_S03",
+    "text": "For three unbroken weeks, sapphire rolling swells stretched from horizon to horizon.",
+    "word_count": 12,
+    "est_duration_sec": 5.33
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 4,
+    "scene_id": "ACT_VI_S04",
+    "text": "Schools of flying fish skimmed across the crests, and banded sea serpents drifted past the hull.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 5,
+    "scene_id": "ACT_VI_S05",
+    "text": "A mid-ocean gale tested the strained timbers, but the seasoned hulls held fast against the tempest.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 6,
+    "scene_id": "ACT_VI_S06",
+    "text": "On the eighteenth of May, floating palm fronds and coastal birds signaled India was at hand.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 7,
+    "scene_id": "ACT_VI_S07",
+    "text": "Through the ocean haze, the majestic blue summit of Mount Delli rose above the waters.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_VI",
+    "scene_idx": 8,
+    "scene_id": "ACT_VI_S08",
+    "text": "The pilot pointed toward the lush coast: 'This is the land you sought \u2014 this is Calicut.'",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 1,
+    "scene_id": "ACT_VII_S01",
+    "text": "On the twentieth of May 1498, the Portuguese armada anchored off the palm shores of Kappad.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 2,
+    "scene_id": "ACT_VII_S02",
+    "text": "Sent ashore, a convict was greeted by North Africans in Spanish: 'What devil brought you here?'",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 3,
+    "scene_id": "ACT_VII_S03",
+    "text": "Carried in shaded palanquins through packed streets, Da Gama marched into Calicut amid roaring crowds.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 4,
+    "scene_id": "ACT_VII_S04",
+    "text": "Entering a Hindu temple filled with brass sculptures, the mariners mistakenly prayed to what they thought was Mary.",
+    "word_count": 18,
+    "est_duration_sec": 8.0
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 5,
+    "scene_id": "ACT_VII_S05",
+    "text": "The Zamorin reclined upon a green velvet couch in his palace, spitting betel nut into a golden basin.",
+    "word_count": 18,
+    "est_duration_sec": 8.0
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 6,
+    "scene_id": "ACT_VII_S06",
+    "text": "When the Portuguese presented their gifts of wash-basins, hats, and sugar, royal ministers laughed in scorn.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 7,
+    "scene_id": "ACT_VII_S07",
+    "text": "In a tense second audience, Da Gama defended his King, demanding trade in spices, rubies, and gold.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_VII",
+    "scene_idx": 8,
+    "scene_id": "ACT_VII_S08",
+    "text": "Arab merchants warned the Zamorin that these strangers were corsairs, turning the court against them.",
+    "word_count": 15,
+    "est_duration_sec": 6.67
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 1,
+    "scene_id": "ACT_VIII_S01",
+    "text": "Detained ashore in Pandarani, Da Gama wrote to the ships to send ransom goods to secure his release.",
+    "word_count": 18,
+    "est_duration_sec": 8.0
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 2,
+    "scene_id": "ACT_VIII_S02",
+    "text": "Trade factor Diogo Dias managed to purchase modest samples of cloves, cinnamon, and pepper.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 3,
+    "scene_id": "ACT_VIII_S03",
+    "text": "Suspicions erupted; guards seized Dias's warehouse, while a loyal servant swam out to alert the fleet.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 4,
+    "scene_id": "ACT_VIII_S04",
+    "text": "Da Gama struck back, seizing eighteen Malabar merchants aboard the flagship as hostages for his men.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 5,
+    "scene_id": "ACT_VIII_S05",
+    "text": "An exchange was brokered: Dias returned bearing the Zamorin's palm-leaf letter to King Manuel.",
+    "word_count": 14,
+    "est_duration_sec": 6.22
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 6,
+    "scene_id": "ACT_VIII_S06",
+    "text": "Seventy armed war boats swarmed the becalmed fleet until a sudden thunderstorm carried the Portuguese to sea.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 7,
+    "scene_id": "ACT_VIII_S07",
+    "text": "At the Anjediva Islands, the battered ships careened their weed-fouled hulls and filled fresh water casks.",
+    "word_count": 16,
+    "est_duration_sec": 7.11
+  },
+  {
+    "act_id": "ACT_VIII",
+    "scene_idx": 8,
+    "scene_id": "ACT_VIII_S08",
+    "text": "A mysterious merchant landed, speaking fluent Venetian. It was Gaspar da Gama \u2014 the voyage's greatest prize.",
+    "word_count": 17,
+    "est_duration_sec": 7.56
+  }
+]
